@@ -10,4 +10,4 @@ kill @e[type=minecraft:armor_stand]
 execute positioned 0 64 0 run function chess:setup_board
 
 # 기물 설치
-execute positioned 0 64 0 run function chess:spawn_pieces
+function chess:spawn_pieces

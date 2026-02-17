@@ -101,4 +101,7 @@ fill ~16 ~0 ~-1 ~16 ~1 ~16 oak_fence
 fill ~-1 ~0 ~-1 ~16 ~1 ~-1 oak_fence
 fill ~-1 ~0 ~16 ~16 ~1 ~16 oak_fence
 
+fill 15 65 19 0 65 16 minecraft:gold_block
+fill 0 65 -4 15 65 -1 minecraft:gold_block
+
 say 체스판이 완성되었습니다!
