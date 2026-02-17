@@ -1,0 +1,1 @@
+execute as @a[scores={queen_drop=1..}] at @s as @e[type=item, distance=..3, nbt={Item:{components:{"minecraft:custom_data":{is_queen:1b}}}}] run function chess:queen_selected
